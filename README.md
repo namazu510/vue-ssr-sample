@@ -14,6 +14,8 @@ vuexを主に使い.
 
 などを示す.
 
+解説記事　[Qiita](http://qiita.com/namazu510/items/e699afb2fb8161cbac2e)
+
 # 実行
 ```bash
 # install
